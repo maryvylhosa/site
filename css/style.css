@@ -1,0 +1,53 @@
+.tattoo1{
+	background-color: #C8F7C5;
+    width: 300px;
+    margin-right: 10px;
+    border: 0;
+}
+
+.tattoo2{
+	background-color: #C8F7C5;
+    width: 300px;
+    margin-right: 10px;
+    border: 0;
+}
+
+.container{
+	display: flex;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+}
+
+.coluna1{
+	/* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    font-family: 'Amatic SC', cursive;
+}
+
+.coluna2{
+	/* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    font-family: 'Amatic SC', cursive;
+}
+
+.coluna3{
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    font-family: 'Amatic SC', cursive;
+}
+
+/*.coluna1{
+	 padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+}*/
+
